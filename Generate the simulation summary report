@@ -9,7 +9,7 @@ use strict;
 #				summary report
 #
 # Author		  : Igroc_Wang
-#	xia xie de, wo dou kuai bei men jia zhu le!
+#	xia xie de, wo dou kuai bei men jia zhu le! 2nd test
 # --------------------------------------
 # parse_sim_log_and_gen_report.pl
 use Getopt::Long;
